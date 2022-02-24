@@ -1,0 +1,13 @@
+/Users/rizaagustiansyah/Projects/praktik2/praktik2/bin/Debug/netcoreapp3.1/praktik2.deps.json
+/Users/rizaagustiansyah/Projects/praktik2/praktik2/bin/Debug/netcoreapp3.1/praktik2.runtimeconfig.json
+/Users/rizaagustiansyah/Projects/praktik2/praktik2/bin/Debug/netcoreapp3.1/praktik2.runtimeconfig.dev.json
+/Users/rizaagustiansyah/Projects/praktik2/praktik2/bin/Debug/netcoreapp3.1/praktik2.dll
+/Users/rizaagustiansyah/Projects/praktik2/praktik2/bin/Debug/netcoreapp3.1/praktik2.pdb
+/Users/rizaagustiansyah/Projects/praktik2/praktik2/obj/Debug/netcoreapp3.1/praktik2.csproj.AssemblyReference.cache
+/Users/rizaagustiansyah/Projects/praktik2/praktik2/obj/Debug/netcoreapp3.1/praktik2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizaagustiansyah/Projects/praktik2/praktik2/obj/Debug/netcoreapp3.1/praktik2.AssemblyInfoInputs.cache
+/Users/rizaagustiansyah/Projects/praktik2/praktik2/obj/Debug/netcoreapp3.1/praktik2.AssemblyInfo.cs
+/Users/rizaagustiansyah/Projects/praktik2/praktik2/obj/Debug/netcoreapp3.1/praktik2.csproj.CoreCompileInputs.cache
+/Users/rizaagustiansyah/Projects/praktik2/praktik2/obj/Debug/netcoreapp3.1/praktik2.dll
+/Users/rizaagustiansyah/Projects/praktik2/praktik2/obj/Debug/netcoreapp3.1/praktik2.pdb
+/Users/rizaagustiansyah/Projects/praktik2/praktik2/obj/Debug/netcoreapp3.1/praktik2.genruntimeconfig.cache
